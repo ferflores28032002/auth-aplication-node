@@ -14,7 +14,7 @@ Api rest realizada con node.js, se implemento el sistema de autenticacion con us
 1. Clona este repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/tu-repositorio.git
+git clone https://github.com/ferflores28032002/auth-aplication-node.git
 
 
 ```
